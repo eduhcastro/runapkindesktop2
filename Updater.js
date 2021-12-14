@@ -13,9 +13,9 @@ module.exports = async function (callback) {
   try {
 
     const linksUpdates = {
-      updater_client: "http://localhost/update/client.zip",
-      updater_extension1: "http://localhost/update/extensions_1.zip",
-      updater_extension2: "http://localhost/update/extensions_2.zip"
+      updater_client: "https://unattractive-clock.000webhostapp.com/update/client.zip",
+      updater_extension1: "https://unattractive-clock.000webhostapp.com/update/extensions_1.zip",
+      updater_extension2: "https://unattractive-clock.000webhostapp.com/update/extensions_2.zip"
     }
 
     const fileStream = fs.createReadStream('version.txt');
