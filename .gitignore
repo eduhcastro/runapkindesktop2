@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+# More
+client/
+client/Data/
+extensions/com.game.web.uc.android
+extensions/vladikoff-archon-e3c9b322402a
+client/App/Chrome-bin/87.0.4280.88/chrome.dll
+updates/Update1.zip
+client.rar
+scripts/iChromeos.script.js
+

@@ -1,15 +1,17 @@
 {
-  "name": "runapkindesktop",
-  "version": "1.0.0",
+  "name": "runapkindesktop2",
+  "version": "1.0.1",
   "description": "",
   "main": "App.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node Index.js",
+    "chromeos-apk": "node scripts/iChromeosApk.script.js"
   },
   "keywords": [],
   "author": "skillerm",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "extract-zip": "^2.0.1",
     "node-processlist": "^1.0.2",
     "nodejs-file-downloader": "^4.8.1",

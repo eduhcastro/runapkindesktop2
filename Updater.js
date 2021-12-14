@@ -1,180 +1,139 @@
 const fs = require('fs');
 
-const readline = require('readline');
-
 const extract = require('extract-zip')
 
-const Downloader = require("nodejs-file-downloader");
+let Downloader = require("nodejs-file-downloader");
 
-let startPoint = 0
 
 module.exports = async function (callback) {
 
   try {
 
+    /**
+     * Links to the update files
+     * @const linksUpdates {Array}
+     */
+
     const linksUpdates = {
-      updater_client: "https://unattractive-clock.000webhostapp.com/update/client.zip",
-      updater_extension1: "https://unattractive-clock.000webhostapp.com/update/extensions_1.zip",
-      updater_extension2: "https://unattractive-clock.000webhostapp.com/update/extensions_2.zip"
+     
+      updater_one_link: "https://onedrive.live.com/download?cid=1DDE94B1CBE8F3AF&resid=1DDE94B1CBE8F3AF%21163&authkey=AA-O72O-1OusqSM&em=2p",
+   
+      /**
+       * @description Alternative links separated files
+       * @tutorial After downloading the files, extract them at the root of the project. 2nd edit the file "version.txt" delete the value 0 and put 1
+       */
+      //updater_client: "https://onedrive.live.com/download?cid=1DDE94B1CBE8F3AF&resid=1DDE94B1CBE8F3AF%21158&authkey=APlu2DXHOrBVgcI&em=2p",
+      //updater_extension1: "https://onedrive.live.com/download?cid=1DDE94B1CBE8F3AF&resid=1DDE94B1CBE8F3AF%21159&authkey=AP59svnT05q0hJk&em=2",
+      //updater_extension2: "https://unattractive-clock.000webhostapp.com/update/extensions_2.zip"
     }
 
-    const fileStream = fs.createReadStream('version.txt');
+    /**
+     * @description Check if the version file exists
+     */
 
-    const rl = readline.createInterface({
-      input: fileStream,
-      crlfDelay: Infinity
-    });
+    fs.access('./version.txt', fs.F_OK, (err) => {
 
-    function extractUpdater(point) {
-  
-      if (point >= 6 || point >= 3) {
+      if (err) {
 
-        setTimeout(() => {
-        fs.writeFile('version.txt', '1', function (err) {
+        /**
+         * @description If the version file doesn't exist, create it
+         */
 
-          if (err) {
+        fs.writeFile('./version.txt', '0', (err) => {
 
-            console.log("[UPDATER] ERROR version.txt");
-
-          } else {
-
-            console.log("[UPDATER] UPDATED version.txt");
-
-          }
-        })
-
-        console.log("[UPDATER] EXTRACTING");
-
-        extract('./updates/client.zip', { dir: __dirname }, function (err) {
-
-          if (err) {
-
-            console.log("[EXTRACT UPDATE] ERROR client.zip");
-
-          } else {
-
-            console.log("[UPDATER] EXTRACTED client.zip");
-
-          }
+          if (err) throw err;
 
         });
-
-
-        extract('./updates/extensions_1.zip', { dir: __dirname }, function (err) {
-
-          if (err) {
-
-            console.log("[EXTRACT UPDATE] ERROR extensions_1.zip");
-
-          } else {
-
-            console.log("[UPDATER] EXTRACTED extensions_1.zip");
-
-          }
-
-        });
-
-        extract('./updates/extensions_2.zip', { dir: __dirname }, function (err) {
-
-          if (err) {
-
-            console.log("[EXTRACT UPDATE] ERROR extensions_2.zip");
-
-          } else {
-
-            console.log("[UPDATER] EXTRACTED extensions_2.zip");
-
-          }
-
-        });
-      }, 4000)
-       
-      setTimeout(() => {
-          console.log("[UPDATER] FINISHED");
-          process.exit()
-        }, 10000);
 
       }
+    })
+
+
+    function updateVersion() {
+
+      fs.writeFile('./version.txt', '1', (err) => {
+
+        if (err) throw err;
+
+        console.log("[UPDATE] Version updated");
+
+        console.log("[EXIT] 10 seconds to exit (DO NOT STOP THE PROCESS)");
+
+        setTimeout(() => {
+          console.log('\x1b[32m%s\x1b[0m', "READY TO BE USED")
+         process.exit();
+        }, 10000);
+      })
+     
+    }
+
+
+    /**
+     * @description extract the update files
+     */
+    function unzip(zip) {
+
+      extract('./updates/' + zip, { dir: __dirname }, (err) => {
+
+        if (err) throw err
+
+        fs.unlink('./updates/' + zip, (err) => {
+
+          if (err) throw err
+
+        })
+        console.log("[UPDATE] Update files extracted");
+      })
 
     }
 
-    for await (const version of rl) {
+    /**
+     * @description If the version file exists, read it and get version
+     */
 
-      if (version == "0") {
-        callback(false);
+     const version = fs.readFileSync("./version.txt")
+
+     if(version.toString() == "0") {
+
+      if (version.toString().length > 1 || isNaN(version.toString())) throw new Error("Invalid version file, use 0 as version")
+
+      /**
+      * @description If the mode is 1, does the update using one file
+      */
+        const Update_1 = new Downloader({
+          url: linksUpdates.updater_one_link,
+          directory: "./updates",
+          onProgress: function (percentage, chunk, remainingSize) {
+            if (percentage == 100) {
+              console.log("[UPDATE DOWNLOAD] 100%")
+              console.log("[UPDATE DOWNLOAD] FINISH")
+
+              setTimeout(function(){
+                unzip('Update2.zip')
+                return updateVersion()
+              }, 5000)
+             
+            }
+            console.log("[UPDATE2 DOWNLOAD] %", percentage);
+          },
+        });
 
         console.log('\x1b[32m%s\x1b[0m', "================================================");
         console.log('\x1b[32m%s\x1b[0m', " [UPDATER] UPDATES AVAILABLE 5 SECONDS TO START ");
         console.log('\x1b[32m%s\x1b[0m', "===============  SIZE = 290MB  =================");
         console.log('\x1b[32m%s\x1b[0m', "================================================");
 
-        const client = new Downloader({
-          url: linksUpdates.updater_client, //If the file name already exists, a new file with the name 200MB1.zip is created.
-          directory: "./updates", //This folder will be created, if it doesn't exist.
-          onProgress: function (percentage, chunk, remainingSize) {
-            //Gets called with each chunk.
-            console.log("[CLIENT] %", percentage);
-            if (percentage == 100) {
+        Update_1.download()
 
-              startPoint++
-              console.log("[CLIENT] DOWNLOADED");
-              return extractUpdater(startPoint)
-             
-            }
-            //console.log("Current chunk of data: ", chunk);
-            //console.log("Remaining bytes: ", remainingSize);
-          },
-        });
+        return callback(false);
 
-        const extension1 = new Downloader({
-          url: linksUpdates.updater_extension1, //If the file name already exists, a new file with the name 200MB1.zip is created.
-          directory: "./updates", //This folder will be created, if it doesn't exist.
-          onProgress: function (percentage, chunk, remainingSize) {
-            //Gets called with each chunk.
-            console.log("[EXTENSION_1] %", percentage);
-            if (percentage == 100) {
+     } else { 
 
-              startPoint++
-              extractUpdater(startPoint)
-              console.log("[EXTENSION_1] DOWNLOADED");
-            }
-            //console.log("Current chunk of data: ", chunk);
-            //console.log("Remaining bytes: ", remainingSize);
-          },
-        });
+      callback(true);
 
-        const extension2 = new Downloader({
-          url: linksUpdates.updater_extension2, //If the file name already exists, a new file with the name 200MB1.zip is created.
-          directory: "./updates", //This folder will be created, if it doesn't exist.
-          onProgress: function (percentage, chunk, remainingSize) {
-            //Gets called with each chunk.
-            console.log("[EXTENSION_2] %", percentage);
-            if (percentage == 100) {
+     }
 
-              startPoint++
-              extractUpdater(startPoint)
-              console.log("[EXTENSION_2] DOWNLOADED");
-            }
-            //console.log("Current chunk of data: ", chunk);
-            //console.log("Remaining bytes: ", remainingSize);
-          },
-        });
 
-        setTimeout(async () => {
-
-          await client.download()
-          await extension1.download()
-          await extension2.download()
-
-        }, 5000);
-
-        break;
-      } else {
-        callback(true);
-        break;
-      }
-    
-    }
 
   } catch (e) {
 
@@ -183,4 +142,3 @@ module.exports = async function (callback) {
 
   }
 }
-
