@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<accounts version="2" nextAuthorityId="0" offsetInSeconds="83917">
+    <listenForTickles user="0" enabled="true" />
+</accounts>

@@ -1,0 +1,6 @@
+com.game.web.uc 10000 0 /data/data/com.game.web.uc null 1028,1015,3003,3002,3001,1007,3007
+org.chromium.arc.helper 10000 0 /data/data/org.chromium.arc.helper null 1028,1015,3003,3002,3001,1007,3007
+com.android.vending 1000 0 /data/data/com.android.vending null 1028,1015
+android 1000 0 /data/system null 1028,1015
+com.google.android.gms 10000 0 /data/data/com.google.android.gms null 1028,1015,3003,3002,3001,1007,3007
+org.chromium.arc 1000 0 /data/data/org.chromium.arc null 1028,1015

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<services>
+    <service uid="10000" authority="com.google.android.gms.people" accountType="com.google" />
+    <service uid="10000" authority="com.google.android.gms.photos.iu.EsGoogleIuProvider" accountType="com.google" />
+    <service uid="10000" authority="com.google.android.gms.plus.action" accountType="com.google" />
+    <service uid="10000" authority="com.google.android.gms.kids.timeouts" accountType="com.google" />
+    <service uid="10000" authority="com.google.android.gms.games" accountType="com.google" />
+    <service uid="10000" authority="com.google.android.location.reporting" accountType="com.google" />
+    <service uid="10000" authority="com.google.android.gms.appstate" accountType="com.google" />
+    <service uid="10000" authority="com.google.android.gms.games.background" accountType="com.google" />
+</services>

@@ -1,0 +1,19 @@
+{
+  "name": "runapkindesktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "skillerm",
+  "license": "MIT",
+  "dependencies": {
+    "extract-zip": "^2.0.1",
+    "node-processlist": "^1.0.2",
+    "nodejs-file-downloader": "^4.8.1",
+    "ps-node": "^0.1.6",
+    "shelljs": "^0.8.4"
+  }
+}

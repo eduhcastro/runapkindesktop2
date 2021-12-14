@@ -1,0 +1,13 @@
+[Push_Get]
+Switch=1
+[YouaiHelp]
+PhoneNumber=
+[YouaiUrl]
+rootUrl=1
+[FeedBackEnable]
+feedback=1
+[RechargeAddressBak]
+addressIp=
+addressUrl=
+[Project]
+projectName=recharge_dragonball

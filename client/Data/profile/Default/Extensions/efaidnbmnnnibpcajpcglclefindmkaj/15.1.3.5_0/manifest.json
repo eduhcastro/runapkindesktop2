@@ -1,0 +1,39 @@
+{
+   "background": {
+      "scripts": [ "lib/libs/require-2.1.15.js", "main.js", "lib/settings.js", "lib/ch-context-menu.js", "data/js/viewer/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "data/images/acrobat_dc_appicon_20x19_translucent.png",
+      "default_title": "__MSG_web2pdfConvertButtonToolTip__"
+   },
+   "content_scripts": [ {
+      "js": [ "data/js/libs/jquery-3.1.1.min.js", "data/js/settings.js", "data/js/content-script-utils.js", "data/js/content-util.js", "data/js/ch-content-script.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "data/js/ch-content-script-dend.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://use.typekit.net https://assets.adobedtm.com https://*.adobecontent.io https://*.adobelogin.com https://*.acrobat.com  https://*.adobe.com; child-src 'self' https://*.adobecontent.io https://*.adobelogin.com https://*.acrobat.com https://*.adobe.com https://*.adobelogin.com; object-src 'self'; style-src 'self' https://use.typekit.net https://assets.adobedtm.com https://*.adobecontent.io https://*.adobelogin.com https://*.acrobat.com https://*.adobe.com 'unsafe-inline'",
+   "default_locale": "en",
+   "description": "__MSG_web2pdfExtnDescription__",
+   "externally_connectable": {
+      "ids": [ "bngnhmnppadfcmpggglniifohlkmddfc" ],
+      "matches": [ "https://dc.dev.dexilab.acrobat.com/*", "https://dc.acrobat.com/*", "https://stage2.adobe.com/*", "https://acrobat.adobe.com/*", "https://dc.adobe.com/*", "https://*.acrobat.adobe.com/*", "https://stage.adobe.com/*", "https://adobe.com/*", "https://www.adobe.com/*", "https://documentcloud.adobe.com/*" ]
+   },
+   "icons": {
+      "128": "data/images/acrobat_dc_appicon_128.png",
+      "16": "data/images/acrobat_dc_appicon_16.png",
+      "48": "data/images/acrobat_dc_appicon_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZBtDwJUnqCebbFbTP819W+x0Tk9Com3yrxaCi/D0t/1FPWBuOvyyiQtFr/FmloZu/2ml8LFYNGNE6gQSSIgGXZceAFCRxzj+EXSI37kNIPISrdKznCTdkA6oSKUpFEVOcoD959DQFqeNbliB9MV+ZrZST+DOVxApdMSJzsCczIwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "41.0",
+   "name": "__MSG_web2pdfExtnName__",
+   "options_page": "data/js/options.html",
+   "permissions": [ "contextMenus", "http://*/*", "https://*/*", "tabs", "downloads", "nativeMessaging", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "15.1.3.5",
+   "web_accessible_resources": [ "viewer.html", "data/js/frame.html", "data/js/frameUI.html", "data/js/extn-utils.html", "data/js/viewer/journey/popup.html" ]
+}

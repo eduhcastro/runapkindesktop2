@@ -1,0 +1,153 @@
+
+LoadingAnimation.png
+size: 995,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 828, 54
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 308, 2
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+Body02
+  rotate: false
+  xy: 230, 115
+  size: 226, 139
+  orig: 226, 139
+  offset: 0, 0
+  index: -1
+Body03
+  rotate: false
+  xy: 880, 166
+  size: 115, 88
+  orig: 115, 88
+  offset: 0, 0
+  index: -1
+CloseMyEye
+  rotate: false
+  xy: 381, 52
+  size: 49, 17
+  orig: 49, 19
+  offset: 0, 1
+  index: -1
+Eye02
+  rotate: false
+  xy: 372, 12
+  size: 48, 18
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+Hair02
+  rotate: false
+  xy: 828, 90
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+Hair03
+  rotate: false
+  xy: 724, 46
+  size: 47, 99
+  orig: 47, 99
+  offset: 0, 0
+  index: -1
+Hand02
+  rotate: false
+  xy: 230, 51
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+Hand03
+  rotate: false
+  xy: 213, 15
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+LeftTendrils
+  rotate: false
+  xy: 756, 158
+  size: 122, 96
+  orig: 122, 96
+  offset: 0, 0
+  index: -1
+Loading
+  rotate: false
+  xy: 2, 16
+  size: 209, 42
+  orig: 209, 42
+  offset: 0, 0
+  index: -1
+RightTendrils
+  rotate: false
+  xy: 773, 52
+  size: 53, 104
+  orig: 53, 104
+  offset: 0, 0
+  index: -1
+Tap02
+  rotate: false
+  xy: 308, 62
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+UpHand
+  rotate: false
+  xy: 641, 59
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+YellowBall
+  rotate: false
+  xy: 458, 73
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1
+YellowLight
+  rotate: false
+  xy: 880, 132
+  size: 32, 32
+  orig: 44, 40
+  offset: 7, 4
+  index: -1
+body
+  rotate: false
+  xy: 2, 60
+  size: 226, 194
+  orig: 226, 194
+  offset: 0, 0
+  index: -1
+eye 01
+  rotate: false
+  xy: 372, 32
+  size: 49, 18
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 381, 71
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+tap
+  rotate: false
+  xy: 641, 147
+  size: 113, 107
+  orig: 113, 107
+  offset: 0, 0
+  index: -1

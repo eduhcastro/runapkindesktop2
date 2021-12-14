@@ -1,0 +1,348 @@
+{
+   "ConvertVerbDescription": {
+      "message": "Dokumentumok átalakítása PDF-fájlból vagy PDF-fájllá."
+   },
+   "EditVerbDescription": {
+      "message": "Oldalak átrendezése, elforgatása vagy törlése a PDF-ben."
+   },
+   "LearnMoreURL": {
+      "message": "https://helpx.adobe.com/hu/acrobat/kb/acrobat-pro-aip-for-chrome.html"
+   },
+   "LearnMoreURLEdge": {
+      "message": "https://helpx.adobe.com/hu/acrobat/kb/acrobat-pro-aip-for-edge.html"
+   },
+   "SignVerbDescription": {
+      "message": "PDF-ek kitöltése és aláírása, vagy aláírások kérése."
+   },
+   "analyticsOptinTitle": {
+      "message": "Névtelen felhasználási adatok küldése"
+   },
+   "convertMegaVerbText": {
+      "message": "Átalakítás"
+   },
+   "editMegaVerbText": {
+      "message": "Szerkesztés"
+   },
+   "optionsFailurePrompt": {
+      "message": "Nem sikerült menteni a módosításokat. Kérjük, próbálja újra később"
+   },
+   "optionsSuccessPrompt": {
+      "message": "Beállítása sikeresen mentve"
+   },
+   "pdfOwnershipExploreAcrobat": {
+      "message": "Acrobat használata a Chrome-ban"
+   },
+   "pdfOwnershipExploreAcrobatEdge": {
+      "message": "Acrobat használata a Microsoft Edge-ben"
+   },
+   "pdfOwnershipExploreOptionsDescription": {
+      "message": "Állítsa be az Acrobat programot alapértelmezett PDF-megtekintőként böngészőjében a megjegyzések, a kitöltés és aláírás, illetve számos egyéb PDF-eszköz használatához."
+   },
+   "pdfOwnershipExploreOptionsTitle": {
+      "message": "PDF-ek megnyitása az Acrobatban"
+   },
+   "pdfOwnershipPromptCancel": {
+      "message": "Most nem"
+   },
+   "pdfOwnershipPromptContent": {
+      "message": "Érjen el többet PDF-dokumentumaival az Adobe Acrobat alkalmazás alapértelmezett PDF-megtekintőként való használatával"
+   },
+   "pdfOwnershipPromptContentEdge": {
+      "message": "Érjen el többet PDF-dokumentumaival a Microsoft Edge-ben, az Adobe Acrobat alkalmazás alapértelmezett PDF-megtekintőként való használatával."
+   },
+   "pdfOwnershipPromptContentNew": {
+      "message": "Használja az Adobe Acrobat programot alapértelmezett PDF-megtekintőként a PDF-ek megtekintéséhez, megjegyzések hozzáfűzéséhez, kitöltéshez, aláíráshoz és egyebekhez."
+   },
+   "pdfOwnershipPromptDeny": {
+      "message": "Nem, köszönöm"
+   },
+   "pdfOwnershipPromptOk": {
+      "message": "Beállítás alapértelmezettként"
+   },
+   "sharepointPreferenceMessage": {
+      "message": "Engedélyezi a SharePoint-fájlkivételt az Acrobat programban."
+   },
+   "signMegaVerbText": {
+      "message": "Aláírás"
+   },
+   "stripTextOpenAcrobat": {
+      "message": "Megnyitás az Acrobatban"
+   },
+   "stripTextOpenFillnSign": {
+      "message": "Kitöltés és aláírás az Acrobatban"
+   },
+   "web2pdfAddButtonText": {
+      "message": "Hozzáadás PDF-hez"
+   },
+   "web2pdfAlwaysShow": {
+      "message": "PDF-eknél automatikus megjelenítés"
+   },
+   "web2pdfAppendLinkContextMenu": {
+      "message": "Hivatkozási cél hozzáfűzése meglévő PDF-fájlhoz"
+   },
+   "web2pdfAppendPageContextMenu": {
+      "message": "Weboldal hozzáadása meglévő PDF-fájlhoz…"
+   },
+   "web2pdfBadVersion": {
+      "message": "A Chrome ezen verziója nem támogatja az Adobe Acrobatot. A szükséges legkisebb verziószám: $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   },
+   "web2pdfBadVersionEdge": {
+      "message": "A Edge ezen verziója nem támogatja az Adobe Acrobat alkalmazást. A szükséges legkisebb verziószám: $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   },
+   "web2pdfClickToOpen": {
+      "message": "Kattintson az alábbi hivatkozásra a PDF Acrobatban való megnyitásához."
+   },
+   "web2pdfCompressPDFText": {
+      "message": "PDF tömörítése"
+   },
+   "web2pdfConvertButtonText": {
+      "message": "Oldal konvertálása PDF-fé"
+   },
+   "web2pdfConvertButtonToolTip": {
+      "message": "Aktuális weboldal konvertálása Adobe PDF-fájllá "
+   },
+   "web2pdfConvertButtonToolTipERPReader": {
+      "message": "Az Acrobat Reader bővítmény jelenleg nincs engedélyezve. Kérjük, forduljon a rendszergazdához"
+   },
+   "web2pdfConvertButtonToolTipReader": {
+      "message": "PDF megnyitása az Acrobat Readerben"
+   },
+   "web2pdfConvertLinkContextMenu": {
+      "message": "Hivatkozási cél konvertálása Adobe PDF formátumra"
+   },
+   "web2pdfConvertPageContextMenu": {
+      "message": "Weblap konvertálása Adobe PDF formátumúra..."
+   },
+   "web2pdfCopyText": {
+      "message": "Másolás az Acrobatba"
+   },
+   "web2pdfCreatePDFText": {
+      "message": "Konvertálás PDF-re"
+   },
+   "web2pdfDestinationText": {
+      "message": "Célmappa:"
+   },
+   "web2pdfDoneButtonText": {
+      "message": "Kész"
+   },
+   "web2pdfEditDeletePDFText": {
+      "message": "Oldalak törlése"
+   },
+   "web2pdfEditPDFText": {
+      "message": "PDF szerkesztése"
+   },
+   "web2pdfEditReorderPDFText": {
+      "message": "Lapok átrendezése"
+   },
+   "web2pdfEditRotatePDFText": {
+      "message": "Oldalak elforgatása"
+   },
+   "web2pdfExportButtonText": {
+      "message": "Fill & Sign"
+   },
+   "web2pdfExportPDFToExcelText": {
+      "message": "PDF átalakítása Excel-fájllá"
+   },
+   "web2pdfExportPDFToJPGText": {
+      "message": "PDF átalakítása JPG-fájllá"
+   },
+   "web2pdfExportPDFToPPTText": {
+      "message": "PDF átalakítása PPT-fájllá"
+   },
+   "web2pdfExportPDFToWordText": {
+      "message": "PDF átalakítása Word-fájllá"
+   },
+   "web2pdfExtnDescription": {
+      "message": "Acrobat használata a böngészőben a PDF-ek megtekintéséhez, konvertálásához, tömörítéséhez és aláírásához"
+   },
+   "web2pdfExtnDescriptionBeta": {
+      "message": "Acrobat használata a böngészőben a PDF-ek megtekintéséhez, konvertálásához, tömörítéséhez és aláírásához"
+   },
+   "web2pdfExtnName": {
+      "message": "Adobe Acrobat"
+   },
+   "web2pdfExtnNameBeta": {
+      "message": "Adobe Acrobat Beta"
+   },
+   "web2pdfExtnNameEdge": {
+      "message": "Adobe Acrobat a Microsoft Edge-hez"
+   },
+   "web2pdfFileLockedError": {
+      "message": "Fájl mentése sikertelen: egy másik folyamat használja a fájlt."
+   },
+   "web2pdfFilename": {
+      "message": "Fájlnév:"
+   },
+   "web2pdfFillSignAcrobatButtonText": {
+      "message": "Kitöltés és aláírás"
+   },
+   "web2pdfFillSignButtonText": {
+      "message": "PDF exportálása"
+   },
+   "web2pdfFillandSignText": {
+      "message": "Fill & Sign"
+   },
+   "web2pdfFrictionlessToggleDescription": {
+      "message": "Az Adobe Acrobat bővítmény PDF-eszközöket javasol a feladat megoldásához az Ön keresései alapján. A folyamat az eszközön zajlik, a keresések nem kerülnek továbbításra az Adobe felé."
+   },
+   "web2pdfFrictionlessUrl": {
+      "message": "https://www.adobe.com/go/fl_chromeext_hu"
+   },
+   "web2pdfFrictionlessUrlEdge": {
+      "message": "https://www.adobe.com/hu/acrobat/online.html?x_api_client_id=edge_extension&x_api_client_location=trefoil&mv=other&mv2=edge_extension:trefoil&trackingid=HM85XB76"
+   },
+   "web2pdfGoToAOnlineButtonText": {
+      "message": "Látogasson el az Acrobat online felületére"
+   },
+   "web2pdfHTMLJSError": {
+      "message": "Weboldalfeldolgozási hiba."
+   },
+   "web2pdfHTMLTooLarge": {
+      "message": "A HTML-tartalom túl nagy."
+   },
+   "web2pdfInfoHoverPopup": {
+      "message": "Az Adobe Acrobat bővítmény PDF-eszközöket javasol a feladat megoldásához az Ön keresései alapján. A folyamat az eszközön zajlik, a keresések nem kerülnek továbbításra az Adobe felé. A funkció letiltásához kattintson: \u003Cspan class = \"tooltip-content-settings\">ide\u003C/span>."
+   },
+   "web2pdfLoaderTitle": {
+      "message": "Betöltés..."
+   },
+   "web2pdfMissingMac": {
+      "message": "Az Acrobat for Chrome még nem elérhető Mac rendszerre"
+   },
+   "web2pdfMissingMacEdge": {
+      "message": "Az Adobe Acrobat még nem érhető el a Microsoft Edge-hez Mac rendszerre"
+   },
+   "web2pdfNoFoldersText": {
+      "message": "Lehetséges, hogy az Acrobat DC tárhelyen nincsenek mappák."
+   },
+   "web2pdfNoWritePermissionOnSelectedFile": {
+      "message": "Nem rendelkezik írási jogosultsággal a kiválasztott fájlhoz."
+   },
+   "web2pdfOpenButtonText": {
+      "message": "Megnyitás az Acrobatban"
+   },
+   "web2pdfOpenButtonTextOlder": {
+      "message": "Adobe PDF letöltése"
+   },
+   "web2pdfOpenButtonTextReader": {
+      "message": "Megnyitás Acrobat Readerben"
+   },
+   "web2pdfOpenConvertedPDFDescription": {
+      "message": "Konvertált PDF automatikus megnyitása az Acrobatban, miután befejeződött a weboldal konvertálása PDF-be."
+   },
+   "web2pdfOpenConvertedPDFTitle": {
+      "message": "Konvertált PDF-ek automatikus megnyitása az Acrobatban"
+   },
+   "web2pdfOpenInDCButtonText": {
+      "message": "PDF megnyitása Acrobatban"
+   },
+   "web2pdfOptOut": {
+      "message": "A termék funkcióinak fejlesztése érdekében ez a bővítmény felhasználással kapcsolatos adatokat küld az Adobe számára."
+   },
+   "web2pdfOptions": {
+      "message": "Beállítások"
+   },
+   "web2pdfOptionsTitle": {
+      "message": "Adobe Acrobat opciók"
+   },
+   "web2pdfPDFOpenFailed": {
+      "message": "PDF megnyitása sikertelen"
+   },
+   "web2pdfPDFOpenFailedv2": {
+      "message": "Sikertelen megnyitás"
+   },
+   "web2pdfPDFOpened": {
+      "message": "PDF megnyitva"
+   },
+   "web2pdfPDFOpening": {
+      "message": "PDF megnyitása"
+   },
+   "web2pdfPreferencesButtonText": {
+      "message": "Beállítások..."
+   },
+   "web2pdfPreferencesNewText": {
+      "message": "Konvertálási beállítások..."
+   },
+   "web2pdfPrivacy": {
+      "message": "Adobe Acrobat névjegye"
+   },
+   "web2pdfReplaceWarning": {
+      "message": "már létezik.\nSzeretné lecserélni?"
+   },
+   "web2pdfRequestSignaturesText": {
+      "message": "Aláírások kérése"
+   },
+   "web2pdfSEndButtonText": {
+      "message": "Send & Track"
+   },
+   "web2pdfSave": {
+      "message": "Mentés"
+   },
+   "web2pdfSaveButton": {
+      "message": "Beállítások mentése"
+   },
+   "web2pdfSaveButtonText": {
+      "message": "Másolat mentése"
+   },
+   "web2pdfShowPDFTools": {
+      "message": "Megjelenítés a Google-keresési eredményekkel"
+   },
+   "web2pdfShowPDFViewerOption": {
+      "message": "Acrobat használata alapértelmezett PDF-megtekintőként"
+   },
+   "web2pdfShowPersistentOpen": {
+      "message": "„Megnyitás Acrobatban” lehetőség megjelenítése"
+   },
+   "web2pdfShowPersistentOpenAlways": {
+      "message": "„Megnyitás Acrobatban” lehetőség megjelenítése mindig"
+   },
+   "web2pdfShowPersistentOpenDescription": {
+      "message": "Minden alkalommal mutassa a PDF megnyitása az Acrobatban lehetőséget."
+   },
+   "web2pdfStatusCancelled": {
+      "message": "Konvertálás megszakítva"
+   },
+   "web2pdfStatusComplete": {
+      "message": "Sikeres konvertálás"
+   },
+   "web2pdfStatusDownloading": {
+      "message": "Letöltés a konvertáláshoz..."
+   },
+   "web2pdfStatusDownloadingPDF": {
+      "message": "PDF letöltése"
+   },
+   "web2pdfStatusFailure": {
+      "message": "Konvertálási hiba"
+   },
+   "web2pdfStatusInProgress": {
+      "message": "Konvertálás folyamatban..."
+   },
+   "web2pdfStatusUnknownFailure": {
+      "message": "Ismeretlen hiba"
+   },
+   "web2pdfStatusWaiting": {
+      "message": "Várakozás a konvertálásra..."
+   },
+   "web2pdfTitle": {
+      "message": "Adobe Acrobat"
+   },
+   "web2pdfUnsupportedAcrobatVersion": {
+      "message": "Nem található az Acrobat támogatott verziója. Telepítse az \u003Ca target='_blank' href='https://acrobat.adobe.com/hu/hu/free-trial-download.html?trackingid=29NMCS7T&mv=other'>ingyenes, 7 napos próbaverziót\u003C/a>."
+   },
+   "web2pdfUntitledFileName": {
+      "message": "névtelen"
+   },
+   "web2pdfVisitButtonText": {
+      "message": "PDF online létrehozása"
+   }
+}

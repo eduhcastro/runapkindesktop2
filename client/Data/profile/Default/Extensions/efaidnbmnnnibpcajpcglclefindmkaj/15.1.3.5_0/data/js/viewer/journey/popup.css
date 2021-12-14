@@ -1,0 +1,18 @@
+/*************************************************************************
+* ADOBE CONFIDENTIAL
+* ___________________
+*
+*  Copyright 2015 Adobe Systems Incorporated
+*  All Rights Reserved.
+*
+* NOTICE:  All information contained herein is, and remains
+* the property of Adobe Systems Incorporated and its suppliers,
+* if any.  The intellectual and technical concepts contained
+* herein are proprietary to Adobe Systems Incorporated and its
+* suppliers and are protected by all applicable intellectual property laws,
+* including trade secret and or copyright laws.
+* Dissemination of this information or reproduction of this material
+* is strictly forbidden unless prior written permission is obtained
+* from Adobe Systems Incorporated.
+**************************************************************************/
+<!-- -->body{overflow:hidden}.hidden{display:none}.body{padding:1px;z-index:1}.body,.image{overflow:hidden}.image{margin:0;background-color:#fff;height:max-content;border:none;border-radius:4px;box-shadow:0 4px 8px rgba(0,0,0,.3),0 4px 8px rgba(0,0,0,.3);box-sizing:border-box}.headingText{padding:24px}.slideCounter{align-self:center;margin-left:20px}.content{margin-bottom:20px;width:270px;color:gray}.actionButtons{align-items:flex-end;margin-right:9px;font-size:11px;font-family:adobe-clean,sans-serif;margin-right:15px;text-align:right}.fte-option input[type=checkbox]~.checkbox-toggle{height:14px;width:26px;padding-top:4px;background-size:100% 100%;background-position:0 0;background-image:url(../../../images/s_toggle_Inactive_26x14_n.svg)}.fte-option input[type=checkbox]:checked~.checkbox-toggle{height:14px;width:26px;padding-top:4px;background-size:100% 100%;background-position:0 0;background-image:url(../../../images/s_toggleon_active_blue_26x14_n.svg)}.fte-option{cursor:pointer;user-select:none;display:grid;margin-bottom:20px;grid-template-columns:1fr 5fr;color:gray}.content-slide{color:#323232;font-weight:700}.content-body,.content-slide{font-family:adobe-clean,Adobe Clean,sans-serif;font-size:14px}.content-body{color:#505050;font-weight:400;line-height:21px;padding-bottom:22px}.checkbox-label{margin-left:-10px}

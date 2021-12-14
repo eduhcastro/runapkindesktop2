@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gpus</key>
+	<dict>
+		<key>gpu1</key>
+		<string>true</string>
+		<key>gpu2</key>
+		<string>false</string>
+	</dict>
+	<key>resolutions</key>
+	<dict>
+		<key>1024*768</key>
+		<string>true</string>
+		<key>960*640</key>
+		<string>true</string>
+		<key>480*320</key>
+		<string>true</string>
+	</dict>
+	<key>devices</key>
+	<dict>
+		<key>sumsung</key>
+		<dict>
+			<key>note2</key>
+			<string>true</string>
+		</dict>
+		<key>xiaomi</key>
+		<dict>
+			<key>2sc</key>
+			<string>fasle</string>
+			<key>1s</key>
+			<string>true</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

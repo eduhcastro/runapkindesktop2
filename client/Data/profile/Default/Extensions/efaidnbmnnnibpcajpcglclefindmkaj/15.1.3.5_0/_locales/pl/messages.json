@@ -1,0 +1,348 @@
+{
+   "ConvertVerbDescription": {
+      "message": "Konwertuj dokumenty do lub z formatu PDF."
+   },
+   "EditVerbDescription": {
+      "message": "Zmieniaj kolejność, obracaj lub usuwaj strony w plikach PDF."
+   },
+   "LearnMoreURL": {
+      "message": "https://helpx.adobe.com/pl/acrobat/kb/acrobat-pro-aip-for-chrome.html"
+   },
+   "LearnMoreURLEdge": {
+      "message": "https://helpx.adobe.com/pl/acrobat/kb/acrobat-pro-aip-for-edge.html"
+   },
+   "SignVerbDescription": {
+      "message": "Wypełnij i podpisz pliki PDF lub poproś o podpisy."
+   },
+   "analyticsOptinTitle": {
+      "message": "Wyślij anonimowe dane dotyczące użytkowania"
+   },
+   "convertMegaVerbText": {
+      "message": "Konwertuj"
+   },
+   "editMegaVerbText": {
+      "message": "Edytuj"
+   },
+   "optionsFailurePrompt": {
+      "message": "Nie można zapisać zmian. Spróbuj ponownie później."
+   },
+   "optionsSuccessPrompt": {
+      "message": "Zapisano preferencje"
+   },
+   "pdfOwnershipExploreAcrobat": {
+      "message": "Użyj aplikacji Acrobat w Chrome"
+   },
+   "pdfOwnershipExploreAcrobatEdge": {
+      "message": "Użyj aplikacji Acrobat w Microsoft Edge"
+   },
+   "pdfOwnershipExploreOptionsDescription": {
+      "message": "Ustaw program Acrobat jako domyślną przeglądarkę plików PDF, aby komentować, wypełniać i podpisywać i korzystać z innych narzędzi PDF."
+   },
+   "pdfOwnershipExploreOptionsTitle": {
+      "message": "Otwórz pliki PDF w programie Acrobat"
+   },
+   "pdfOwnershipPromptCancel": {
+      "message": "Nie teraz"
+   },
+   "pdfOwnershipPromptContent": {
+      "message": "Wykonuj więcej zadań z plikami PDF w przeglądarce Chrome po ustawieniu programu Adobe Acrobat jako domyślnej przeglądarki PDF."
+   },
+   "pdfOwnershipPromptContentEdge": {
+      "message": "Wykonuj więcej zadań z plikami PDF w przeglądarce Microsoft Edge po ustawieniu programu Adobe Acrobat jako domyślnej przeglądarki PDF."
+   },
+   "pdfOwnershipPromptContentNew": {
+      "message": "Wyświetlaj, komentuj, wypełniaj, podpisuj i nie tylko po ustawieniu programu Adobe Acrobat jako domyślnej przeglądarki PDF."
+   },
+   "pdfOwnershipPromptDeny": {
+      "message": "Nie, dziękuję"
+   },
+   "pdfOwnershipPromptOk": {
+      "message": "Ustaw jako domyślny"
+   },
+   "sharepointPreferenceMessage": {
+      "message": "Zezwól na wyewidencjonowanie plików SharePoint w programie Acrobat."
+   },
+   "signMegaVerbText": {
+      "message": "Podpisz"
+   },
+   "stripTextOpenAcrobat": {
+      "message": "Otwórz w programie Acrobat"
+   },
+   "stripTextOpenFillnSign": {
+      "message": "Wypełnij i podpisz w programie Acrobat"
+   },
+   "web2pdfAddButtonText": {
+      "message": "Dodaj do istniejącego PDF..."
+   },
+   "web2pdfAlwaysShow": {
+      "message": "Otwieraj pliki PDF automatycznie"
+   },
+   "web2pdfAppendLinkContextMenu": {
+      "message": "Dołącz obiekt docelowy łącza do istniejącego pliku PDF"
+   },
+   "web2pdfAppendPageContextMenu": {
+      "message": "Dodaj stronę internetową do istniejącego pliku PDF..."
+   },
+   "web2pdfBadVersion": {
+      "message": "Ta wersja przeglądarki Chrome nie obsługuje programu Adobe Acrobat. Należy korzystać z wersji minimum $version$.",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   },
+   "web2pdfBadVersionEdge": {
+      "message": "Ta wersja przeglądarki Edge nie obsługuje programu Adobe Acrobat. Należy korzystać z wersji minimum $version$.",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   },
+   "web2pdfClickToOpen": {
+      "message": "Kliknij poniższe łącze i otwórz plik PDF w programie Acrobat."
+   },
+   "web2pdfCompressPDFText": {
+      "message": "Skompresuj plik PDF"
+   },
+   "web2pdfConvertButtonText": {
+      "message": "Konwertuj stronę do PDF…"
+   },
+   "web2pdfConvertButtonToolTip": {
+      "message": "Konwertuj bieżącą stronę internetową do pliku Adobe PDF "
+   },
+   "web2pdfConvertButtonToolTipERPReader": {
+      "message": "Rozszerzenie programu Acrobat Reader jest obecnie wyłączone. Skontaktuj się z administratorem IT."
+   },
+   "web2pdfConvertButtonToolTipReader": {
+      "message": "Otwórz plik PDF w programie Acrobat Reader"
+   },
+   "web2pdfConvertLinkContextMenu": {
+      "message": "Konwertuj obiekt docelowy łącza na plik Adobe PDF"
+   },
+   "web2pdfConvertPageContextMenu": {
+      "message": "Konwertuj stronę internetową do pliku Adobe PDF..."
+   },
+   "web2pdfCopyText": {
+      "message": "Kopiowanie do programu Acrobat"
+   },
+   "web2pdfCreatePDFText": {
+      "message": "Konwertuj do pliku PDF"
+   },
+   "web2pdfDestinationText": {
+      "message": "Folder docelowy:"
+   },
+   "web2pdfDoneButtonText": {
+      "message": "Gotowe"
+   },
+   "web2pdfEditDeletePDFText": {
+      "message": "Usuń strony"
+   },
+   "web2pdfEditPDFText": {
+      "message": "Edytuj plik PDF"
+   },
+   "web2pdfEditReorderPDFText": {
+      "message": "Zmiana kolejności stron"
+   },
+   "web2pdfEditRotatePDFText": {
+      "message": "Obróć strony"
+   },
+   "web2pdfExportButtonText": {
+      "message": "Wypełnij i podpisz"
+   },
+   "web2pdfExportPDFToExcelText": {
+      "message": "Konwersja PDF > Excel"
+   },
+   "web2pdfExportPDFToJPGText": {
+      "message": "Konwersja PDF > JPG"
+   },
+   "web2pdfExportPDFToPPTText": {
+      "message": "Konwersja PDF > PPT"
+   },
+   "web2pdfExportPDFToWordText": {
+      "message": "Konwersja PDF > Word"
+   },
+   "web2pdfExtnDescription": {
+      "message": "Korzystaj z programu Acrobat w przeglądarce, aby przeglądać, konwertować, kompresować i podpisywać pliki PDF"
+   },
+   "web2pdfExtnDescriptionBeta": {
+      "message": "Korzystaj z programu Acrobat w przeglądarce, aby przeglądać, konwertować, kompresować i podpisywać pliki PDF"
+   },
+   "web2pdfExtnName": {
+      "message": "Adobe Acrobat"
+   },
+   "web2pdfExtnNameBeta": {
+      "message": "Adobe Acrobat Beta"
+   },
+   "web2pdfExtnNameEdge": {
+      "message": "Adobe Acrobat dla przeglądarki Microsoft Edge"
+   },
+   "web2pdfFileLockedError": {
+      "message": "Plik nie może zostać zapisany, ponieważ jest wykorzystywany przez inny proces."
+   },
+   "web2pdfFilename": {
+      "message": "Nazwa pliku:"
+   },
+   "web2pdfFillSignAcrobatButtonText": {
+      "message": "Wypełnij i podpisz"
+   },
+   "web2pdfFillSignButtonText": {
+      "message": "Eksportuj plik PDF"
+   },
+   "web2pdfFillandSignText": {
+      "message": "Wypełnij i podpisz"
+   },
+   "web2pdfFrictionlessToggleDescription": {
+      "message": "Rozszerzenie Adobe Acrobat zaleca korzystanie z narzędzi PDF w celu wykonaniu zadania. Rekomendacja jest oparta na wykonanych wyszukiwaniach. Te dane nie są jednak przesyłane do firmy Adobe."
+   },
+   "web2pdfFrictionlessUrl": {
+      "message": "https://www.adobe.com/go/fl_chromeext_pl"
+   },
+   "web2pdfFrictionlessUrlEdge": {
+      "message": "https://www.adobe.com/pl/acrobat/online.html?x_api_client_id=edge_extension&x_api_client_location=trefoil&mv=other&mv2=edge_extension:trefoil&trackingid=HM85XB76"
+   },
+   "web2pdfGoToAOnlineButtonText": {
+      "message": "Przejdź do programu Acrobat w trybie online"
+   },
+   "web2pdfHTMLJSError": {
+      "message": "Wystąpił błąd podczas przetwarzania strony internetowej."
+   },
+   "web2pdfHTMLTooLarge": {
+      "message": "Zawartość HTML jest zbyt duża, aby ją przetworzyć."
+   },
+   "web2pdfInfoHoverPopup": {
+      "message": "Rozszerzenie Adobe Acrobat zaleca korzystanie z narzędzi PDF w celu wykonaniu zadania. Rekomendacja jest oparta na wykonanych wyszukiwaniach. Te dane nie są jednak przesyłane do firmy Adobe. Aby wyłączyć tę funkcję, kliknij \u003Cspan class = \"tooltip-content-settings\">tutaj\u003C/span>."
+   },
+   "web2pdfLoaderTitle": {
+      "message": "Wczytywanie..."
+   },
+   "web2pdfMissingMac": {
+      "message": "Program Adobe Acrobat dla przeglądarki Chrome nie jest jeszcze dostępny dla komputerów Mac."
+   },
+   "web2pdfMissingMacEdge": {
+      "message": "Program Adobe Acrobat dla przeglądarki Microsoft Edge nie jest jeszcze dostępny dla komputerów Mac"
+   },
+   "web2pdfNoFoldersText": {
+      "message": "Nie masz żadnych folderów w pamięci Acrobat DC."
+   },
+   "web2pdfNoWritePermissionOnSelectedFile": {
+      "message": "Nie masz uprawnień do zapisu wybranego pliku."
+   },
+   "web2pdfOpenButtonText": {
+      "message": "Otwórz w programie Acrobat"
+   },
+   "web2pdfOpenButtonTextOlder": {
+      "message": "Pobierz Adobe PDF"
+   },
+   "web2pdfOpenButtonTextReader": {
+      "message": "Otwórz w programie Acrobat Reader"
+   },
+   "web2pdfOpenConvertedPDFDescription": {
+      "message": "Automatycznie otwórz przekonwertowany plik PDF w programie Acrobat po zakończeniu konwersji strony."
+   },
+   "web2pdfOpenConvertedPDFTitle": {
+      "message": "Automatycznie otwórz przekonwertowane pliki PDF w programie Acrobat"
+   },
+   "web2pdfOpenInDCButtonText": {
+      "message": "Otwórz plik PDF w: Acrobat"
+   },
+   "web2pdfOptOut": {
+      "message": "Aby ulepszyć funkcje produktów, aplikacja ta wysyła firmie Adobe informacje na temat sposobu korzystania z niej."
+   },
+   "web2pdfOptions": {
+      "message": "Opcje"
+   },
+   "web2pdfOptionsTitle": {
+      "message": "Adobe Acrobat — opcje"
+   },
+   "web2pdfPDFOpenFailed": {
+      "message": "Nie udało się otworzyć pliku PDF"
+   },
+   "web2pdfPDFOpenFailedv2": {
+      "message": "Nie udało się otworzyć"
+   },
+   "web2pdfPDFOpened": {
+      "message": "Otworzono plik PDF"
+   },
+   "web2pdfPDFOpening": {
+      "message": "Otwieranie pliku PDF"
+   },
+   "web2pdfPreferencesButtonText": {
+      "message": "Preferencje..."
+   },
+   "web2pdfPreferencesNewText": {
+      "message": "Ustawienia konwersji..."
+   },
+   "web2pdfPrivacy": {
+      "message": "Adobe Acrobat — informacje"
+   },
+   "web2pdfReplaceWarning": {
+      "message": "już istnieje.\nCzy chcesz go zastąpić?"
+   },
+   "web2pdfRequestSignaturesText": {
+      "message": "Poproś o podpisy"
+   },
+   "web2pdfSEndButtonText": {
+      "message": "Wyślij i śledź"
+   },
+   "web2pdfSave": {
+      "message": "Zapisz"
+   },
+   "web2pdfSaveButton": {
+      "message": "Zapisz preferencje"
+   },
+   "web2pdfSaveButtonText": {
+      "message": "Zapisz kopię"
+   },
+   "web2pdfShowPDFTools": {
+      "message": "Pokaż z wynikami Google"
+   },
+   "web2pdfShowPDFViewerOption": {
+      "message": "Korzystaj z aplikacji Acrobat jako domyślnej przeglądarki PDF"
+   },
+   "web2pdfShowPersistentOpen": {
+      "message": "Pokazuj „Otwórz w programie Acrobat”"
+   },
+   "web2pdfShowPersistentOpenAlways": {
+      "message": "Zawsze pokazuj „Otwórz w programie Acrobat”"
+   },
+   "web2pdfShowPersistentOpenDescription": {
+      "message": "Pokaż opcję każdorazowego otwierania plików PDF w programie Acrobat."
+   },
+   "web2pdfStatusCancelled": {
+      "message": "Konwertowanie anulowane"
+   },
+   "web2pdfStatusComplete": {
+      "message": "Konwer. zakończ."
+   },
+   "web2pdfStatusDownloading": {
+      "message": "Pobieranie do konwertowania..."
+   },
+   "web2pdfStatusDownloadingPDF": {
+      "message": "Pobieranie pliku PDF"
+   },
+   "web2pdfStatusFailure": {
+      "message": "Błąd konwersji"
+   },
+   "web2pdfStatusInProgress": {
+      "message": "Trwa konwertowanie..."
+   },
+   "web2pdfStatusUnknownFailure": {
+      "message": "Nieznany problem"
+   },
+   "web2pdfStatusWaiting": {
+      "message": "Oczekiwanie na konwertowanie..."
+   },
+   "web2pdfTitle": {
+      "message": "Adobe Acrobat"
+   },
+   "web2pdfUnsupportedAcrobatVersion": {
+      "message": "Nie znaleziono obsługiwanej wersji programu Acrobat. Zainstaluj \u003Ca target='_blank' href='https://acrobat.adobe.com/pl/pl/free-trial-download.html?trackingid=29NMCS7T&mv=other'>bezpłatną 7-dniową wersję próbną\u003C/a>."
+   },
+   "web2pdfUntitledFileName": {
+      "message": "Bez nazwy"
+   },
+   "web2pdfVisitButtonText": {
+      "message": "Utwórz PDF w Internecie"
+   }
+}

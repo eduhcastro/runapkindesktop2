@@ -1,0 +1,37 @@
+{
+   "author": "Adaware",
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/browsericons/icon19-off.png",
+         "38": "img/browsericons/icon38-off.png"
+      },
+      "default_title": "Safe Torrent Scanner"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "/js/adaware/contentscript.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extShortDesc__",
+   "icons": {
+      "128": "img/icon_128.png",
+      "16": "img/icon_16.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxTExFZ4jiuh8MVUThjtDzPH3UL3l6wwmCI0dLs7MLN795NdxnZfEH9a3MVM8/rNfIsza9eeOriDLGnAZJGbTJtvG+aI4CASt9ht18cVnW50g7G6rDNbE3WtAs8mfOlGxoOuMQPynEMA+12CjnaAiqENPcEs2cwueVm3uHvgTXpVwmxL4KVseyJXZNgp1QlPw7iEj56aynq975dYunhHGYDgdC7+YEsmd7n1wejNy9u0F8ru9zCsfM90qv2MiBAkCY/OiwYQLNiwrzkK7a1oFr0sGpL35YpL+d2H49xJfpfc5HQndVOX7cIDxKhRtzElV0EPe1oonrVJz0pIwOhJwcQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "26.0",
+   "name": "Safe Torrent Scanner",
+   "optional_permissions": [ "nativeMessaging" ],
+   "permissions": [ "storage", "tabs", "http://*/*", "https://*/*" ],
+   "short_name": "Safe Torrent Scanner",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.5.17",
+   "web_accessible_resources": [ "img/*", "*" ]
+}

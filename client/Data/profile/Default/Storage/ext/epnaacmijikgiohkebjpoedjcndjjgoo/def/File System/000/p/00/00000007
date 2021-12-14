@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<package-restrictions>
+    <pkg name="com.android.vending" stopped="true" nl="true" />
+    <pkg name="com.google.android.gms">
+        <disabled-components>
+            <item name="com.google.android.gms.analytics.service.AnalyticsService" />
+            <item name="com.google.android.gms.subscribedfeeds.SyncService" />
+        </disabled-components>
+    </pkg>
+    <preferred-activities />
+</package-restrictions>

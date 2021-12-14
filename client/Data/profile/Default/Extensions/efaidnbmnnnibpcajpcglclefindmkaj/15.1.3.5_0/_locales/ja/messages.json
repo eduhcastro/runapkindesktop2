@@ -1,0 +1,348 @@
+{
+   "ConvertVerbDescription": {
+      "message": "文書と PDF 間の変換を行います。"
+   },
+   "EditVerbDescription": {
+      "message": "PDF 内でページの並べ替え、回転、または削除を行います。"
+   },
+   "LearnMoreURL": {
+      "message": "https://helpx.adobe.com/jp/acrobat/kb/acrobat-pro-aip-for-chrome.html"
+   },
+   "LearnMoreURLEdge": {
+      "message": "https://helpx.adobe.com/jp/acrobat/kb/acrobat-pro-aip-for-edge.html"
+   },
+   "SignVerbDescription": {
+      "message": "PDF に入力して署名するか、署名を依頼します。"
+   },
+   "analyticsOptinTitle": {
+      "message": "匿名の使用状況データを送信"
+   },
+   "convertMegaVerbText": {
+      "message": "変換"
+   },
+   "editMegaVerbText": {
+      "message": "編集"
+   },
+   "optionsFailurePrompt": {
+      "message": "変更を保存できません。後でもう一度お試しください"
+   },
+   "optionsSuccessPrompt": {
+      "message": "環境設定が正常に保存されました"
+   },
+   "pdfOwnershipExploreAcrobat": {
+      "message": "Chrome で Acrobat 活用"
+   },
+   "pdfOwnershipExploreAcrobatEdge": {
+      "message": "Microsoft Edge で Acrobat を使用"
+   },
+   "pdfOwnershipExploreOptionsDescription": {
+      "message": "Acrobat をブラウザーのデフォルト PDF ビューアーに設定して、注釈、入力と署名などの PDF ツールを使用します。"
+   },
+   "pdfOwnershipExploreOptionsTitle": {
+      "message": "PDF を Acrobat で開く"
+   },
+   "pdfOwnershipPromptCancel": {
+      "message": "今はしない"
+   },
+   "pdfOwnershipPromptContent": {
+      "message": "Adobe Acrobat をデフォルトのビューアーとして設定すると、Chrome で PDF をさらに活用できます。"
+   },
+   "pdfOwnershipPromptContentEdge": {
+      "message": "Adobe Acrobat をデフォルトのビューアーに設定すると、Microsoft Edge で PDF をさらに活用できます。"
+   },
+   "pdfOwnershipPromptContentNew": {
+      "message": "Adobe Acrobat をデフォルトの PDF ブラウザーとして設定すると、表示、コメント、入力、署名などができます。"
+   },
+   "pdfOwnershipPromptDeny": {
+      "message": "いいえ、結構です"
+   },
+   "pdfOwnershipPromptOk": {
+      "message": "既定に設定"
+   },
+   "sharepointPreferenceMessage": {
+      "message": "Acrobat で SharePoint ファイルのチェックアウトを許可します。"
+   },
+   "signMegaVerbText": {
+      "message": "署名"
+   },
+   "stripTextOpenAcrobat": {
+      "message": "Acrobat で開く"
+   },
+   "stripTextOpenFillnSign": {
+      "message": "Acrobat で入力と署名"
+   },
+   "web2pdfAddButtonText": {
+      "message": "既存の PDF に追加..."
+   },
+   "web2pdfAlwaysShow": {
+      "message": "PDF で自動的に表示"
+   },
+   "web2pdfAppendLinkContextMenu": {
+      "message": "リンクの参照先を既存の PDF に追加"
+   },
+   "web2pdfAppendPageContextMenu": {
+      "message": "既存の PDF に Web ページを追加..."
+   },
+   "web2pdfBadVersion": {
+      "message": "このバージョンの Chrome では Adobe Acrobat がサポートされていません。最低バージョンは $version$ です",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   },
+   "web2pdfBadVersionEdge": {
+      "message": "このバージョンの Edge では Adobe Acrobat がサポートされていません。最低バージョンは $version$ です",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   },
+   "web2pdfClickToOpen": {
+      "message": "下のリンクをクリックして Acrobat で PDF ファイルを開きます。"
+   },
+   "web2pdfCompressPDFText": {
+      "message": "PDF を圧縮"
+   },
+   "web2pdfConvertButtonText": {
+      "message": "Web ページを PDF に変換..."
+   },
+   "web2pdfConvertButtonToolTip": {
+      "message": "現在の Web ページを Adobe PDF ファイルに変換"
+   },
+   "web2pdfConvertButtonToolTipERPReader": {
+      "message": "Acrobat Reader の拡張機能は現在無効になっています。IT 管理者にお問い合わせください"
+   },
+   "web2pdfConvertButtonToolTipReader": {
+      "message": "PDF を Acrobat Reader で開く"
+   },
+   "web2pdfConvertLinkContextMenu": {
+      "message": "リンクの参照先を Adobe PDF に変換"
+   },
+   "web2pdfConvertPageContextMenu": {
+      "message": "Web ページを Adobe PDF に変換..."
+   },
+   "web2pdfCopyText": {
+      "message": "Acrobat にコピー中"
+   },
+   "web2pdfCreatePDFText": {
+      "message": "PDF への変換"
+   },
+   "web2pdfDestinationText": {
+      "message": "保存先フォルダー :"
+   },
+   "web2pdfDoneButtonText": {
+      "message": "完了"
+   },
+   "web2pdfEditDeletePDFText": {
+      "message": "ページを削除"
+   },
+   "web2pdfEditPDFText": {
+      "message": "PDF を編集"
+   },
+   "web2pdfEditReorderPDFText": {
+      "message": "ページを並べ替え"
+   },
+   "web2pdfEditRotatePDFText": {
+      "message": "ページを回転"
+   },
+   "web2pdfExportButtonText": {
+      "message": "入力と署名"
+   },
+   "web2pdfExportPDFToExcelText": {
+      "message": "PDF を Excel に"
+   },
+   "web2pdfExportPDFToJPGText": {
+      "message": "PDF を JPG に"
+   },
+   "web2pdfExportPDFToPPTText": {
+      "message": "PDF を PPT に"
+   },
+   "web2pdfExportPDFToWordText": {
+      "message": "PDF を Word に"
+   },
+   "web2pdfExtnDescription": {
+      "message": "ブラウザーで Acrobat を使用して、PDF の表示、変換、圧縮、および署名をおこないます"
+   },
+   "web2pdfExtnDescriptionBeta": {
+      "message": "ブラウザーで Acrobat を使用して、PDF の表示、変換、圧縮、および署名をおこないます"
+   },
+   "web2pdfExtnName": {
+      "message": "Adobe Acrobat"
+   },
+   "web2pdfExtnNameBeta": {
+      "message": "Adobe Acrobat ベータ版"
+   },
+   "web2pdfExtnNameEdge": {
+      "message": "Microsoft Edge 向け Adobe Acrobat"
+   },
+   "web2pdfFileLockedError": {
+      "message": "別のプロセスで使用されているので、ファイルを保存できませんでした。"
+   },
+   "web2pdfFilename": {
+      "message": "ファイル名 :"
+   },
+   "web2pdfFillSignAcrobatButtonText": {
+      "message": "入力と署名"
+   },
+   "web2pdfFillSignButtonText": {
+      "message": "PDF を書き出し"
+   },
+   "web2pdfFillandSignText": {
+      "message": "入力と署名"
+   },
+   "web2pdfFrictionlessToggleDescription": {
+      "message": "Adobe Acrobat 拡張機能は、タスクの実行に役立つ PDF ツールを推奨します。当社の推奨事項は、お客様がデバイスで検索し、実行した内容に基づいており、この情報がアドビに送信されることはありません。"
+   },
+   "web2pdfFrictionlessUrl": {
+      "message": "https://www.adobe.com/go/fl_chromeext_jp"
+   },
+   "web2pdfFrictionlessUrlEdge": {
+      "message": "https://www.adobe.com/jp/acrobat/online.html?x_api_client_id=edge_extension&x_api_client_location=trefoil&mv=other&mv2=edge_extension:trefoil&trackingid=HM85XB76"
+   },
+   "web2pdfGoToAOnlineButtonText": {
+      "message": "Acrobat オンラインにアクセス"
+   },
+   "web2pdfHTMLJSError": {
+      "message": "Web ページを処理中にエラーが発生しました。"
+   },
+   "web2pdfHTMLTooLarge": {
+      "message": "HTML コンテンツが大きすぎて処理できません。 "
+   },
+   "web2pdfInfoHoverPopup": {
+      "message": "Adobe Acrobat 拡張機能は、タスクの実行に役立つ PDF ツールを推奨します。当社の推奨事項は、お客様がデバイスで検索し、実行した内容に基づいており、この情報がアドビに送信されることはありません。この機能を無効にするには、\u003Cspan class = \"tooltip-content-settings\">こちら\u003C/span> をクリックしてください。"
+   },
+   "web2pdfLoaderTitle": {
+      "message": "読み込み中..."
+   },
+   "web2pdfMissingMac": {
+      "message": "Adobe Acrobat for Chrome は、Mac ではまだご利用いただけません"
+   },
+   "web2pdfMissingMacEdge": {
+      "message": "Microsoft Edge 向け Adobe Acrobat は、Mac ではまだご利用いただけません"
+   },
+   "web2pdfNoFoldersText": {
+      "message": "Acrobat DC ストレージにフォルダーがありません。"
+   },
+   "web2pdfNoWritePermissionOnSelectedFile": {
+      "message": "選択されたファイルに書き込む権限がありません。"
+   },
+   "web2pdfOpenButtonText": {
+      "message": "Acrobat で開く"
+   },
+   "web2pdfOpenButtonTextOlder": {
+      "message": "Adobe PDF をダウンロード"
+   },
+   "web2pdfOpenButtonTextReader": {
+      "message": "Acrobat Reader で開く"
+   },
+   "web2pdfOpenConvertedPDFDescription": {
+      "message": "Web ページから PDF への変換が完了すると、変換された PDF が Acrobat で自動的に開きます。"
+   },
+   "web2pdfOpenConvertedPDFTitle": {
+      "message": "変換された PDF を Acrobat で自動的に開く"
+   },
+   "web2pdfOpenInDCButtonText": {
+      "message": "PDF を Acrobat で開く"
+   },
+   "web2pdfOptOut": {
+      "message": "製品の機能向上のために、この拡張ではお客様の製品の使用状況に関する情報を Adobe に送信します。"
+   },
+   "web2pdfOptions": {
+      "message": "オプション"
+   },
+   "web2pdfOptionsTitle": {
+      "message": "Adobe Acrobat オプション"
+   },
+   "web2pdfPDFOpenFailed": {
+      "message": "PDF を開けませんでした"
+   },
+   "web2pdfPDFOpenFailedv2": {
+      "message": "開けませんでした"
+   },
+   "web2pdfPDFOpened": {
+      "message": "PDF を開きました"
+   },
+   "web2pdfPDFOpening": {
+      "message": "PDF を開いています"
+   },
+   "web2pdfPreferencesButtonText": {
+      "message": "環境設定..."
+   },
+   "web2pdfPreferencesNewText": {
+      "message": "変換設定..."
+   },
+   "web2pdfPrivacy": {
+      "message": "Adobe Acrobat について"
+   },
+   "web2pdfReplaceWarning": {
+      "message": "は既に存在します。\n 置換ますか？"
+   },
+   "web2pdfRequestSignaturesText": {
+      "message": "署名を依頼"
+   },
+   "web2pdfSEndButtonText": {
+      "message": "送信とトラック"
+   },
+   "web2pdfSave": {
+      "message": "保存"
+   },
+   "web2pdfSaveButton": {
+      "message": "環境設定を保存"
+   },
+   "web2pdfSaveButtonText": {
+      "message": "コピーを保存"
+   },
+   "web2pdfShowPDFTools": {
+      "message": "Google の検索結果と共に表示"
+   },
+   "web2pdfShowPDFViewerOption": {
+      "message": "デフォルトの PDF ビューアーとして Acrobat を使用"
+   },
+   "web2pdfShowPersistentOpen": {
+      "message": "「Acrobat で開く」を表示する"
+   },
+   "web2pdfShowPersistentOpenAlways": {
+      "message": "「Acrobat で開く」を常に表示する"
+   },
+   "web2pdfShowPersistentOpenDescription": {
+      "message": "オプションを表示して、毎回 Acrobat で PDF を開きます。"
+   },
+   "web2pdfStatusCancelled": {
+      "message": "変換はキャンセルされました"
+   },
+   "web2pdfStatusComplete": {
+      "message": "正常に変換されました"
+   },
+   "web2pdfStatusDownloading": {
+      "message": "変換用にダウンロード中..."
+   },
+   "web2pdfStatusDownloadingPDF": {
+      "message": "PDF をダウンロード中"
+   },
+   "web2pdfStatusFailure": {
+      "message": "変換できませんでした"
+   },
+   "web2pdfStatusInProgress": {
+      "message": "変換中..."
+   },
+   "web2pdfStatusUnknownFailure": {
+      "message": "不明なエラー"
+   },
+   "web2pdfStatusWaiting": {
+      "message": "変換を待機中..."
+   },
+   "web2pdfTitle": {
+      "message": "Adobe Acrobat"
+   },
+   "web2pdfUnsupportedAcrobatVersion": {
+      "message": "サポートされているバージョンの Acrobat が見つかりませんでした。\u003Ca target='_blank' href='https://acrobat.adobe.com/jp/ja/free-trial-download.html?trackingid=29NMCS7T&mv=other'>7 日間無料の体験版\u003C/a>をインストールしてください。"
+   },
+   "web2pdfUntitledFileName": {
+      "message": "名称未設定"
+   },
+   "web2pdfVisitButtonText": {
+      "message": "オンラインで PDF を作成"
+   }
+}

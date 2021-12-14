@@ -1,0 +1,237 @@
+
+Dragon.png
+size: 1016,1006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chin
+  rotate: false
+  xy: 321, 142
+  size: 187, 184
+  orig: 187, 184
+  offset: 0, 0
+  index: -1
+Eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 171, 86
+  orig: 171, 86
+  offset: 0, 0
+  index: -1
+L hair X4
+  rotate: false
+  xy: 976, 715
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+L hair X5
+  rotate: false
+  xy: 528, 73
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+L hair X6
+  rotate: false
+  xy: 834, 476
+  size: 88, 97
+  orig: 194, 98
+  offset: 106, 1
+  index: -1
+L hand D 01
+  rotate: false
+  xy: 521, 400
+  size: 109, 151
+  orig: 110, 151
+  offset: 0, 0
+  index: -1
+L hand D 02
+  rotate: false
+  xy: 175, 4
+  size: 124, 84
+  orig: 124, 85
+  offset: 0, 0
+  index: -1
+Lhand up 01
+  rotate: false
+  xy: 477, 4
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+Lhand up 02
+  rotate: false
+  xy: 731, 413
+  size: 97, 53
+  orig: 98, 54
+  offset: 0, 1
+  index: -1
+Lhand up 03
+  rotate: false
+  xy: 510, 144
+  size: 59, 65
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+R hair X1
+  rotate: false
+  xy: 946, 635
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+R hair X2
+  rotate: false
+  xy: 521, 300
+  size: 86, 98
+  orig: 86, 98
+  offset: 0, 0
+  index: -1
+R hair X3
+  rotate: false
+  xy: 946, 588
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+R hand D
+  rotate: false
+  xy: 321, 23
+  size: 154, 117
+  orig: 154, 117
+  offset: 0, 0
+  index: -1
+R hand X01
+  rotate: false
+  xy: 609, 353
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+R hand X02
+  rotate: false
+  xy: 420, 707
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+R hand X03
+  rotate: false
+  xy: 571, 163
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+R hand01
+  rotate: false
+  xy: 510, 211
+  size: 85, 87
+  orig: 85, 88
+  offset: 0, 1
+  index: -1
+R hand02
+  rotate: false
+  xy: 632, 410
+  size: 97, 141
+  orig: 98, 142
+  offset: 1, 0
+  index: -1
+Tail D 01
+  rotate: false
+  xy: 2, 693
+  size: 416, 313
+  orig: 416, 313
+  offset: 0, 0
+  index: -1
+Tail D 02
+  rotate: false
+  xy: 800, 693
+  size: 174, 313
+  orig: 174, 314
+  offset: 0, 1
+  index: -1
+Tail M
+  rotate: false
+  xy: 420, 736
+  size: 378, 270
+  orig: 378, 270
+  offset: 0, 0
+  index: -1
+Tail up
+  rotate: false
+  xy: 2, 303
+  size: 314, 388
+  orig: 314, 390
+  offset: 0, 1
+  index: -1
+beard
+  rotate: false
+  xy: 318, 328
+  size: 201, 139
+  orig: 201, 140
+  offset: 0, 0
+  index: -1
+beard 2
+  rotate: false
+  xy: 728, 575
+  size: 216, 116
+  orig: 216, 116
+  offset: 0, 0
+  index: -1
+fur 01
+  rotate: false
+  xy: 731, 468
+  size: 101, 105
+  orig: 102, 170
+  offset: 0, 65
+  index: -1
+fur 02
+  rotate: false
+  xy: 2, 90
+  size: 317, 211
+  orig: 318, 212
+  offset: 0, 1
+  index: -1
+fur X01
+  rotate: false
+  xy: 976, 773
+  size: 31, 73
+  orig: 31, 73
+  offset: 0, 0
+  index: -1
+fur X02
+  rotate: false
+  xy: 976, 928
+  size: 37, 78
+  orig: 37, 78
+  offset: 0, 0
+  index: -1
+hair 02
+  rotate: false
+  xy: 477, 65
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+hair X02
+  rotate: false
+  xy: 976, 848
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 318, 469
+  size: 187, 222
+  orig: 187, 222
+  offset: 0, 0
+  index: -1
+horn
+  rotate: false
+  xy: 507, 553
+  size: 219, 181
+  orig: 219, 181
+  offset: 0, 0
+  index: -1

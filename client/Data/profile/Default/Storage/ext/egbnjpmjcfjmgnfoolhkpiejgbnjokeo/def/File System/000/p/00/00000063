@@ -1,0 +1,713 @@
+
+SupperSaiYaRen.png
+size: 1021,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJTbody
+  rotate: false
+  xy: 688, 189
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+BJTerhuan
+  rotate: false
+  xy: 1010, 1010
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+BJThair01
+  rotate: false
+  xy: 216, 26
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+BJThair02
+  rotate: false
+  xy: 995, 557
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+BJThair03
+  rotate: false
+  xy: 735, 98
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+BJThair04
+  rotate: false
+  xy: 721, 274
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+BJThair05
+  rotate: false
+  xy: 990, 158
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+BJThair06
+  rotate: false
+  xy: 565, 191
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+BJThead
+  rotate: false
+  xy: 160, 2
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+BJTrighehand
+  rotate: false
+  xy: 554, 255
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+BJTshangyi
+  rotate: false
+  xy: 376, 315
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+BJTxiabanshen
+  rotate: false
+  xy: 907, 835
+  size: 101, 187
+  orig: 101, 187
+  offset: 0, 0
+  index: -1
+BJlefthand
+  rotate: false
+  xy: 467, 9
+  size: 68, 26
+  orig: 68, 26
+  offset: 0, 0
+  index: -1
+BeJTaLelfHand
+  rotate: false
+  xy: 238, 755
+  size: 245, 127
+  orig: 245, 127
+  offset: 0, 0
+  index: -1
+BeJTaLightGloves01
+  rotate: false
+  xy: 763, 433
+  size: 127, 134
+  orig: 127, 134
+  offset: 0, 0
+  index: -1
+BeJTaLightGloves02
+  rotate: false
+  xy: 279, 315
+  size: 95, 80
+  orig: 95, 80
+  offset: 0, 0
+  index: -1
+BeJTaRightGloves01
+  rotate: false
+  xy: 904, 261
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+BeJTaRightGloves02
+  rotate: false
+  xy: 469, 96
+  size: 94, 69
+  orig: 94, 69
+  offset: 0, 0
+  index: -1
+BeJTaRightHand
+  rotate: false
+  xy: 316, 39
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+BeJTabody
+  rotate: false
+  xy: 153, 368
+  size: 124, 175
+  orig: 124, 175
+  offset: 0, 0
+  index: -1
+BeJTaclothe
+  rotate: false
+  xy: 2, 748
+  size: 234, 274
+  orig: 234, 274
+  offset: 0, 0
+  index: -1
+BeJTahair01
+  rotate: false
+  xy: 151, 185
+  size: 80, 114
+  orig: 80, 114
+  offset: 0, 0
+  index: -1
+BeJTahair02
+  rotate: false
+  xy: 379, 384
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+BeJTahead
+  rotate: false
+  xy: 2, 164
+  size: 147, 187
+  orig: 147, 187
+  offset: 0, 0
+  index: -1
+TLKSblade02
+  rotate: false
+  xy: 159, 555
+  size: 90, 191
+  orig: 90, 191
+  offset: 0, 0
+  index: -1
+TLKSbody
+  rotate: false
+  xy: 485, 711
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1
+TLKScloth03
+  rotate: false
+  xy: 626, 122
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+TLKSclothe01
+  rotate: false
+  xy: 412, 68
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+TLKSclothe02
+  rotate: false
+  xy: 611, 463
+  size: 150, 104
+  orig: 150, 104
+  offset: 0, 0
+  index: -1
+TLKSface
+  rotate: false
+  xy: 379, 467
+  size: 90, 147
+  orig: 90, 147
+  offset: 0, 0
+  index: -1
+TLKShair02
+  rotate: false
+  xy: 565, 88
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+TLKShair03
+  rotate: false
+  xy: 966, 205
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+TLKSlefthand
+  rotate: false
+  xy: 238, 884
+  size: 281, 138
+  orig: 281, 138
+  offset: 0, 0
+  index: -1
+TLKSshair01
+  rotate: false
+  xy: 380, 214
+  size: 85, 99
+  orig: 85, 100
+  offset: 0, 1
+  index: -1
+WFLEFThand
+  rotate: false
+  xy: 385, 128
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+WFclothe
+  rotate: false
+  xy: 882, 597
+  size: 126, 119
+  orig: 126, 119
+  offset: 0, 0
+  index: -1
+WFface
+  rotate: false
+  xy: 160, 70
+  size: 78, 113
+  orig: 78, 113
+  offset: 0, 0
+  index: -1
+WFhair00
+  rotate: false
+  xy: 374, 2
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+WFhair03
+  rotate: false
+  xy: 469, 167
+  size: 76, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+WFrightHand
+  rotate: false
+  xy: 892, 497
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+WJTBody
+  rotate: false
+  xy: 2, 353
+  size: 149, 190
+  orig: 149, 190
+  offset: 0, 0
+  index: -1
+WJTClothes01
+  rotate: false
+  xy: 564, 44
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+WJTClothes02
+  rotate: false
+  xy: 995, 525
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+WJTFace
+  rotate: false
+  xy: 814, 206
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+WJTHair01
+  rotate: false
+  xy: 990, 132
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+WJTHair02
+  rotate: false
+  xy: 626, 148
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+WJTHair03
+  rotate: false
+  xy: 612, 40
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+WJTHair04
+  rotate: false
+  xy: 537, 4
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+WJTHand
+  rotate: false
+  xy: 611, 302
+  size: 148, 55
+  orig: 148, 55
+  offset: 0, 0
+  index: -1
+WK2BlueBelt
+  rotate: false
+  xy: 892, 433
+  size: 102, 62
+  orig: 102, 62
+  offset: 0, 0
+  index: -1
+WK2BlueClothe
+  rotate: false
+  xy: 485, 607
+  size: 159, 102
+  orig: 159, 102
+  offset: 0, 0
+  index: -1
+WK2Body
+  rotate: false
+  xy: 646, 569
+  size: 157, 137
+  orig: 157, 137
+  offset: 0, 0
+  index: -1
+WK2Face
+  rotate: false
+  xy: 686, 130
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+WK2Hair01
+  rotate: false
+  xy: 412, 19
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+WK2Hair02
+  rotate: false
+  xy: 305, 3
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+WK2Hair03
+  rotate: false
+  xy: 905, 718
+  size: 112, 115
+  orig: 112, 115
+  offset: 0, 0
+  index: -1
+WK2Hair04
+  rotate: false
+  xy: 805, 578
+  size: 75, 128
+  orig: 75, 128
+  offset: 0, 0
+  index: -1
+WK2LeftArm01
+  rotate: false
+  xy: 316, 111
+  size: 67, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+WK2LeftArm02
+  rotate: false
+  xy: 654, 33
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+WK2LeftFinge
+  rotate: false
+  xy: 688, 862
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+WK2LeftHand
+  rotate: false
+  xy: 658, 71
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+WK2LeftWrist
+  rotate: false
+  xy: 611, 573
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+WK2RightArm
+  rotate: false
+  xy: 756, 182
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+WK2RightArm02
+  rotate: false
+  xy: 696, 43
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+WK2RightFinge
+  rotate: false
+  xy: 216, 5
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+WK2RightHand
+  rotate: false
+  xy: 696, 81
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+WK2RightWrist
+  rotate: false
+  xy: 569, 12
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+WK2YellowClothe
+  rotate: false
+  xy: 2, 4
+  size: 156, 158
+  orig: 156, 158
+  offset: 0, 0
+  index: -1
+WKArm
+  rotate: false
+  xy: 2, 545
+  size: 155, 201
+  orig: 155, 201
+  offset: 0, 0
+  index: -1
+WKBelt
+  rotate: false
+  xy: 304, 211
+  size: 74, 102
+  orig: 74, 102
+  offset: 0, 0
+  index: -1
+WKBuleClothe
+  rotate: false
+  xy: 761, 279
+  size: 141, 60
+  orig: 141, 60
+  offset: 0, 0
+  index: -1
+WKFace
+  rotate: false
+  xy: 240, 2
+  size: 63, 75
+  orig: 63, 77
+  offset: 0, 1
+  index: -1
+WKHair01
+  rotate: false
+  xy: 886, 140
+  size: 66, 59
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+WKHair02
+  rotate: false
+  xy: 611, 359
+  size: 150, 102
+  orig: 150, 102
+  offset: 0, 0
+  index: -1
+WKLeftWrist
+  rotate: false
+  xy: 660, 859
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+WKRightWrist
+  rotate: false
+  xy: 251, 547
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+WKThumb
+  rotate: false
+  xy: 611, 274
+  size: 108, 26
+  orig: 108, 26
+  offset: 0, 0
+  index: -1
+WKYellowClothe01
+  rotate: false
+  xy: 763, 341
+  size: 143, 90
+  orig: 143, 90
+  offset: 0, 0
+  index: -1
+WKYellowClothe02
+  rotate: false
+  xy: 251, 571
+  size: 124, 182
+  orig: 124, 182
+  offset: 0, 0
+  index: -1
+WTKSBelt
+  rotate: false
+  xy: 521, 884
+  size: 199, 138
+  orig: 199, 138
+  offset: 0, 0
+  index: -1
+WTKSBody
+  rotate: false
+  xy: 817, 727
+  size: 86, 130
+  orig: 86, 130
+  offset: 0, 0
+  index: -1
+WTKSHair01
+  rotate: false
+  xy: 471, 450
+  size: 138, 155
+  orig: 138, 155
+  offset: 0, 0
+  index: -1
+WTKSHair02
+  rotate: false
+  xy: 886, 201
+  size: 78, 58
+  orig: 78, 58
+  offset: 0, 0
+  index: -1
+WTKSHair03
+  rotate: false
+  xy: 468, 348
+  size: 141, 100
+  orig: 141, 100
+  offset: 0, 0
+  index: -1
+WTKSHair04
+  rotate: false
+  xy: 377, 616
+  size: 106, 137
+  orig: 106, 137
+  offset: 0, 0
+  index: -1
+WTKSHair05
+  rotate: false
+  xy: 233, 185
+  size: 69, 114
+  orig: 69, 114
+  offset: 0, 0
+  index: -1
+WTKSHead
+  rotate: false
+  xy: 908, 333
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+WTKSLeftArm
+  rotate: false
+  xy: 153, 301
+  size: 113, 65
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
+WTKSLeftFinger
+  rotate: false
+  xy: 814, 150
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+WTKSLeftHand
+  rotate: false
+  xy: 607, 192
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+WTKSLeftWrist
+  rotate: false
+  xy: 750, 136
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+WTKSPants
+  rotate: false
+  xy: 722, 859
+  size: 183, 163
+  orig: 183, 163
+  offset: 0, 0
+  index: -1
+WTKSRightArm
+  rotate: false
+  xy: 467, 37
+  size: 95, 57
+  orig: 95, 57
+  offset: 0, 0
+  index: -1
+WTKSRightFinger
+  rotate: false
+  xy: 565, 128
+  size: 59, 61
+  orig: 60, 61
+  offset: 1, 0
+  index: -1
+WTKSRightHand
+  rotate: false
+  xy: 467, 254
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1
+WTKSRightWrist
+  rotate: false
+  xy: 554, 295
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+WYKSClothe
+  rotate: false
+  xy: 240, 79
+  size: 74, 104
+  orig: 74, 104
+  offset: 0, 0
+  index: -1
+wfbody01
+  rotate: false
+  xy: 279, 397
+  size: 98, 172
+  orig: 98, 172
+  offset: 0, 0
+  index: -1
+wfbody02
+  rotate: false
+  xy: 660, 708
+  size: 155, 149
+  orig: 155, 149
+  offset: 0, 0
+  index: -1
+wfhair01
+  rotate: false
+  xy: 613, 79
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+wfhair02
+  rotate: false
+  xy: 954, 135
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1

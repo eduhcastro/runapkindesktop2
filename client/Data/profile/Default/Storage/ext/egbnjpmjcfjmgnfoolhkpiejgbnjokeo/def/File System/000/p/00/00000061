@@ -1,0 +1,8 @@
+{  
+    "version": 1,  
+    "localVerson" : "1.600.0",
+    "sever": "http://192.168.100.100:81/server_lz.html", 
+	"severBackup":  "http://192.168.100.100:81/server_lz.html",
+    "inStoreUpdate": "https://www.gudanba.com",
+		"branch":"MAIN" 
+}

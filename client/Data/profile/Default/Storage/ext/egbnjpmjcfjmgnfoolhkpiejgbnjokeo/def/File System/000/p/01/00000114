@@ -1,0 +1,237 @@
+
+BunnyGirl.png
+size: 1020,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARedTie
+  rotate: false
+  xy: 784, 206
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+ARedTie02
+  rotate: false
+  xy: 768, 173
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+BlackClothes
+  rotate: false
+  xy: 463, 219
+  size: 128, 118
+  orig: 128, 120
+  offset: 0, 2
+  index: -1
+BlackClothes02
+  rotate: false
+  xy: 185, 216
+  size: 138, 144
+  orig: 138, 144
+  offset: 0, 0
+  index: -1
+CloseEye03
+  rotate: false
+  xy: 878, 196
+  size: 69, 61
+  orig: 69, 64
+  offset: 0, 2
+  index: -1
+CloseEye04
+  rotate: false
+  xy: 949, 209
+  size: 71, 62
+  orig: 72, 64
+  offset: 0, 1
+  index: -1
+CloseEyeX
+  rotate: false
+  xy: 927, 273
+  size: 72, 64
+  orig: 73, 66
+  offset: 0, 1
+  index: -1
+Eye
+  rotate: false
+  xy: 305, 117
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 192, 77
+  size: 111, 137
+  orig: 112, 138
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: false
+  xy: 784, 259
+  size: 82, 71
+  orig: 83, 71
+  offset: 1, 0
+  index: -1
+Hair01
+  rotate: false
+  xy: 628, 300
+  size: 152, 196
+  orig: 153, 196
+  offset: 0, 0
+  index: -1
+Hair02
+  rotate: false
+  xy: 919, 339
+  size: 76, 46
+  orig: 76, 46
+  offset: 0, 0
+  index: -1
+Hair03
+  rotate: false
+  xy: 721, 206
+  size: 61, 92
+  orig: 61, 92
+  offset: 0, 0
+  index: -1
+Hair04
+  rotate: false
+  xy: 2, 164
+  size: 181, 205
+  orig: 181, 206
+  offset: 0, 0
+  index: -1
+HisEyeBrows
+  rotate: false
+  xy: 868, 259
+  size: 57, 71
+  orig: 58, 72
+  offset: 0, 1
+  index: -1
+LeftEar
+  rotate: false
+  xy: 721, 175
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 192, 3
+  size: 89, 72
+  orig: 90, 72
+  offset: 1, 0
+  index: -1
+LeftHand02
+  rotate: false
+  xy: 593, 185
+  size: 126, 113
+  orig: 127, 113
+  offset: 0, 0
+  index: -1
+LeftHand03
+  rotate: false
+  xy: 593, 308
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+LeftHand04
+  rotate: false
+  xy: 2, 2
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+LeftHandX
+  rotate: false
+  xy: 325, 176
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 782, 332
+  size: 135, 164
+  orig: 137, 164
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 371
+  size: 270, 125
+  orig: 270, 125
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 305, 85
+  size: 51, 30
+  orig: 52, 33
+  offset: 0, 2
+  index: -1
+RabbitEars
+  rotate: false
+  xy: 2, 13
+  size: 188, 149
+  orig: 188, 149
+  offset: 0, 0
+  index: -1
+RabbitEars02
+  rotate: false
+  xy: 919, 387
+  size: 57, 109
+  orig: 57, 109
+  offset: 0, 0
+  index: -1
+RightEar
+  rotate: false
+  xy: 283, 45
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 274, 362
+  size: 196, 134
+  orig: 199, 134
+  offset: 0, 0
+  index: -1
+RightHand02
+  rotate: false
+  xy: 978, 445
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: false
+  xy: 325, 239
+  size: 136, 121
+  orig: 136, 121
+  offset: 0, 0
+  index: -1
+TheChest
+  rotate: false
+  xy: 472, 339
+  size: 154, 157
+  orig: 155, 157
+  offset: 0, 0
+  index: -1
+TheTail
+  rotate: false
+  xy: 398, 189
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+TheWhites
+  rotate: false
+  xy: 808, 177
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
